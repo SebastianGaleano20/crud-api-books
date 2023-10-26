@@ -1,0 +1,24 @@
+{
+  "name": "apibooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "backend",
+    "client",
+    "server"
+  ],
+  "author": "Sebastian Galeano",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "@types/uuid": "^9.0.6"
+  }
+}
